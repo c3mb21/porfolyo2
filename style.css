@@ -108,6 +108,7 @@ html {
 /* Fade In & Fade Out Elements on Scroll Start */
 .fadein {
   opacity: 0.5;
+  color: black;
 }
 .showme {
   transition: opacity 0.1s ease;
